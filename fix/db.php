@@ -69,6 +69,7 @@
     'harga' => 1200,
     'stok' => 70,
   ),
+<<<<<<< HEAD
   10 => 
   array (
     'nama' => 'hjhs',
@@ -76,4 +77,7 @@
     'harga' => 676,
     'stok' => 5656,
   ),
+=======
+
+>>>>>>> upstream/main
 );
