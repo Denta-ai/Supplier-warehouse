@@ -25,10 +25,9 @@
                     <form action="storedData.php" method="post">
                         <table style="border-style: none">
                             <tr>
-                                <td style="border-style: none; padding: 5px"><label for="input-product">Nama
-                                        Produk</label></td>
-                                <td style="border-style: none"> : <input type="text" name="name-product"
-                                        placeholder="Masukkan nama product"></td>
+                                <td style="border-style: none; padding: 5px">
+                                <label for="input-product">Nama Produk</label></td>
+                                <td style="border-style: none"> : <input type="text" name="name-product" placeholder="Masukkan nama product"></td>
                             <tr>
                                 <td style="border-style: none; padding: 5px""><label for=" id-product">ID Produk</label>
                                 </td>
