@@ -69,25 +69,4 @@
     'harga' => 1200,
     'stok' => 70,
   ),
-  10 => 
-  array (
-    'nama' => 'hjhs',
-    'id' => 76,
-    'harga' => 676,
-    'stok' => 5656,
-  ),
-  11 => 
-  array (
-    'nama' => 'hjhs',
-    'id' => 8,
-    'harga' => 909099,
-    'stok' => 9,
-  ),
-  12 => 
-  array (
-    'nama' => 'ikan',
-    'id' => 11,
-    'harga' => 16,
-    'stok' => 14,
-  ),
 );
